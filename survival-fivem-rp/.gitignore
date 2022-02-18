@@ -1,0 +1,44 @@
+# vscode
+.vscode
+
+# Compiled Lua sources
+luac.out
+
+# luarocks build files
+/_resources/*.src.rock
+/_resources/*.zip
+/_resources/*.tar.gz
+
+# Object files
+/_resources/*.o
+/_resources/*.os
+/_resources/*.ko
+/_resources/*.obj
+/_resources/*.elf
+
+# Precompiled Headers
+/_resources/*.gch
+/_resources/*.pch
+
+# Libraries
+/_resources/*.lib
+/_resources/*.a
+/_resources/*.la
+/_resources/*.lo
+/_resources/*.def
+/_resources/*.exp
+
+# Shared objects (inc. Windows DLLs)
+/_resources/*.dll
+/_resources/*.so
+/_resources/*.so.*
+/_resources/*.dylib
+
+# Executables
+/_resources/*.exe
+/_resources/*.out
+/_resources/*.app
+/_resources/*.i*86
+/_resources/*.x86_64
+/_resources/*.hex
+
