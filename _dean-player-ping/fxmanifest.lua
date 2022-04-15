@@ -1,7 +1,7 @@
 fx_version "cerulean"
 game "gta5"
 
-description "_dean-car-doors"
+description "_dean-player-ping"
 version "1.0.0"
 
 shared_scripts {
