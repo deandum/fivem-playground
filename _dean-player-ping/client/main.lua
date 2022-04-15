@@ -7,7 +7,7 @@ end, false) -- anyone can use this command
 
 -- Events
 
--- TODO: Future - could add a small UI Vue app to display a notifiation with the ping value instad
+-- TODO: Future - could add a small UI Vue app to display a notifiation with the ping value instead
 RegisterNetEvent("_dean-player-ping:client:displayPlayerPing", function(ping)
     print("My ping is " .. ping)
 end)
