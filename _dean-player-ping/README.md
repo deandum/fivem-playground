@@ -1,3 +1,3 @@
-# _dean-car-doors
+# _dean-player-ping
 
-Simple script to open the closest car door. Just use `/carDoor`.
+Simple script to display your server ping.
